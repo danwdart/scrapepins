@@ -1,0 +1,4 @@
+Get a token from https://developers.pinterest.com/tools/access_token/ with read access
+and put it in a file named TOKEN.
+
+Then run the script to download your pins.
